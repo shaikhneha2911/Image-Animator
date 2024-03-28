@@ -4,7 +4,7 @@ This repository contains the source code for the CVPR'2021 paper [Motion Represe
 
 ## Example animation
 
-Here is an example of several images produced by our method. In the first column, the driving video is shown. For the remaining columns, the top image is animated by using motions extracted from the driving. 
+Here is an example of several images produced by the method. In the first column, the driving video is shown. For the remaining columns, the top image is animated by using motions extracted from the driving. 
 
 ![Screenshot](sup-mat/teaser.gif)
 
